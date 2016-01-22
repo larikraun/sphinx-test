@@ -1,0 +1,152 @@
+[Fri Jan 15 15:50:54.440 2016] [ 7912] listening on all interfaces, port=9312
+[Fri Jan 15 15:50:54.441 2016] [ 7912] listening on all interfaces, port=9306
+[Fri Jan 15 15:50:54.483 2016] [ 7912] rotating index 'test1': success
+[Fri Jan 15 15:50:54.494 2016] [ 7912] rotating index 'test1stemmed': success
+[Fri Jan 15 15:50:54.587 2016] [ 7912] accepting connections
+[Mon Jan 18 10:39:04.810 2016] [ 7396] listening on all interfaces, port=9312
+[Mon Jan 18 10:39:04.813 2016] [ 7396] listening on all interfaces, port=9306
+[Mon Jan 18 10:39:05.042 2016] [ 7396] binlog: replaying log ./binlog.001
+[Mon Jan 18 10:39:05.043 2016] [ 7396] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Mon Jan 18 10:39:05.043 2016] [ 7396] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Mon Jan 18 10:39:05.043 2016] [ 7396] binlog: finished replaying total 1 in 0.000 sec
+[Mon Jan 18 10:39:05.045 2016] [ 7396] accepting connections
+[Mon Jan 18 13:21:35.178 2016] [ 7396] caught SIGTERM, shutting down
+[Mon Jan 18 13:21:35.250 2016] [ 7396] rt: index rt: ramchunk saved in 0.007 sec
+[Mon Jan 18 13:21:35.285 2016] [ 7396] shutdown complete
+[Mon Jan 18 13:39:33.511 2016] [ 2640] listening on all interfaces, port=9312
+[Mon Jan 18 13:39:33.512 2016] [ 2640] listening on all interfaces, port=9306
+[Mon Jan 18 13:39:33.531 2016] [ 2640] accepting connections
+[Mon Jan 18 13:52:15.483 2016] [ 2640] caught SIGTERM, shutting down
+[Mon Jan 18 13:52:15.543 2016] [ 2640] rt: index rt: ramchunk saved in 0.007 sec
+[Mon Jan 18 13:52:15.584 2016] [ 2640] shutdown complete
+[Mon Jan 18 13:52:17.861 2016] [ 4600] listening on all interfaces, port=9312
+[Mon Jan 18 13:52:17.864 2016] [ 4600] listening on all interfaces, port=9306
+[Mon Jan 18 13:52:17.917 2016] [ 4600] accepting connections
+[Mon Jan 18 13:54:30.070 2016] [ 4600] caught SIGTERM, shutting down
+[Mon Jan 18 13:54:30.131 2016] [ 4600] rt: index rt: ramchunk saved in 0.008 sec
+[Mon Jan 18 13:54:30.221 2016] [ 4600] shutdown complete
+[Mon Jan 18 14:05:10.270 2016] [ 7320] listening on all interfaces, port=9312
+[Mon Jan 18 14:05:10.272 2016] [ 7320] listening on all interfaces, port=9306
+[Mon Jan 18 14:05:10.291 2016] [ 7320] accepting connections
+[Mon Jan 18 19:28:17.269 2016] [ 7320] caught SIGTERM, shutting down
+[Mon Jan 18 19:28:17.472 2016] [ 7320] rt: index rt: ramchunk saved in 0.036 sec
+[Mon Jan 18 19:28:17.598 2016] [ 7320] shutdown complete
+[Wed Jan 20 02:45:02.962 2016] [11284] listening on all interfaces, port=9312
+[Wed Jan 20 02:45:02.969 2016] [11284] listening on all interfaces, port=9306
+[Wed Jan 20 02:45:03.048 2016] [11284] accepting connections
+[Wed Jan 20 03:06:36.885 2016] [11284] caught SIGTERM, shutting down
+[Wed Jan 20 03:06:36.941 2016] [11284] rt: index rt: ramchunk saved in 0.005 sec
+[Wed Jan 20 03:06:37.033 2016] [11284] shutdown complete
+[Wed Jan 20 03:06:39.279 2016] [12480] listening on all interfaces, port=9312
+[Wed Jan 20 03:06:39.282 2016] [12480] listening on all interfaces, port=9306
+[Wed Jan 20 03:06:39.313 2016] [12480] accepting connections
+[Wed Jan 20 12:38:51.741 2016] [12480] caught SIGTERM, shutting down
+[Wed Jan 20 12:38:52.297 2016] [12480] rt: index rt: ramchunk saved in 0.165 sec
+[Wed Jan 20 12:38:52.500 2016] [12480] shutdown complete
+[Wed Jan 20 17:18:31.027 2016] [13756] listening on all interfaces, port=9312
+[Wed Jan 20 17:18:31.028 2016] [13756] listening on all interfaces, port=9306
+[Wed Jan 20 17:18:31.068 2016] [13756] accepting connections
+[Wed Jan 20 18:10:23.357 2016] [13756] caught SIGTERM, shutting down
+[Wed Jan 20 18:10:23.538 2016] [13756] rt: index rt: ramchunk saved in 0.068 sec
+[Wed Jan 20 18:10:23.673 2016] [13756] shutdown complete
+[Wed Jan 20 18:10:26.278 2016] [12928] listening on all interfaces, port=9312
+[Wed Jan 20 18:10:26.279 2016] [12928] listening on all interfaces, port=9306
+[Wed Jan 20 18:10:26.343 2016] [12928] accepting connections
+[Wed Jan 20 18:16:09.721 2016] [12928] caught SIGTERM, shutting down
+[Wed Jan 20 18:16:09.775 2016] [12928] rt: index rt: ramchunk saved in 0.007 sec
+[Wed Jan 20 18:16:09.835 2016] [12928] shutdown complete
+[Wed Jan 20 18:16:17.281 2016] [14032] listening on all interfaces, port=9312
+[Wed Jan 20 18:16:17.282 2016] [14032] listening on all interfaces, port=9306
+[Wed Jan 20 18:16:17.330 2016] [14032] accepting connections
+[Wed Jan 20 20:28:04.797 2016] [14032] caught SIGTERM, shutting down
+[Wed Jan 20 20:28:04.849 2016] [14032] rt: index rt: ramchunk saved in 0.009 sec
+[Wed Jan 20 20:28:04.950 2016] [14032] shutdown complete
+[Wed Jan 20 20:28:06.731 2016] [ 5236] listening on all interfaces, port=9312
+[Wed Jan 20 20:28:06.733 2016] [ 5236] listening on all interfaces, port=9306
+[Wed Jan 20 20:28:06.753 2016] [ 5236] accepting connections
+[Wed Jan 20 20:31:14.740 2016] [ 5236] caught SIGTERM, shutting down
+[Wed Jan 20 20:31:14.807 2016] [ 5236] rt: index rt: ramchunk saved in 0.008 sec
+[Wed Jan 20 20:31:14.832 2016] [ 5236] shutdown complete
+[Wed Jan 20 20:32:37.561 2016] [14856] listening on all interfaces, port=9312
+[Wed Jan 20 20:32:37.563 2016] [14856] listening on all interfaces, port=9306
+[Wed Jan 20 20:32:37.586 2016] [14856] accepting connections
+[Wed Jan 20 20:34:31.810 2016] [14856] caught SIGTERM, shutting down
+[Wed Jan 20 20:34:31.876 2016] [14856] rt: index rt: ramchunk saved in 0.008 sec
+[Wed Jan 20 20:34:31.967 2016] [14856] shutdown complete
+[Wed Jan 20 20:39:46.037 2016] [14060] listening on all interfaces, port=9312
+[Wed Jan 20 20:39:46.038 2016] [14060] listening on all interfaces, port=9306
+[Wed Jan 20 20:39:46.060 2016] [14060] accepting connections
+[Wed Jan 20 21:45:14.671 2016] [14060] caught SIGTERM, shutting down
+[Wed Jan 20 21:45:14.724 2016] [14060] rt: index rt: ramchunk saved in 0.008 sec
+[Wed Jan 20 21:45:14.799 2016] [14060] shutdown complete
+[Wed Jan 20 21:49:31.471 2016] [ 3764] listening on all interfaces, port=9312
+[Wed Jan 20 21:49:31.472 2016] [ 3764] listening on all interfaces, port=9306
+[Wed Jan 20 21:49:31.495 2016] [ 3764] accepting connections
+[Thu Jan 21 02:29:34.753 2016] [ 3764] caught SIGTERM, shutting down
+[Thu Jan 21 02:29:35.251 2016] [ 3764] rt: index rt: ramchunk saved in 0.146 sec
+[Thu Jan 21 02:29:35.456 2016] [ 3764] shutdown complete
+[Thu Jan 21 02:42:40.746 2016] [15628] listening on all interfaces, port=9312
+[Thu Jan 21 02:42:40.749 2016] [15628] listening on all interfaces, port=9306
+[Thu Jan 21 02:42:41.088 2016] [15628] accepting connections
+[Thu Jan 21 03:18:37.454 2016] [15628] caught SIGTERM, shutting down
+[Thu Jan 21 03:18:37.501 2016] [15628] rt: index rt: ramchunk saved in 0.010 sec
+[Thu Jan 21 03:18:37.590 2016] [15628] shutdown complete
+[Thu Jan 21 03:35:32.262 2016] [16704] listening on all interfaces, port=9312
+[Thu Jan 21 03:35:32.263 2016] [16704] listening on all interfaces, port=9306
+[Thu Jan 21 03:35:32.285 2016] [16704] accepting connections
+[Thu Jan 21 04:09:52.092 2016] [16704] caught SIGTERM, shutting down
+[Thu Jan 21 04:09:52.149 2016] [16704] rt: index rt: ramchunk saved in 0.008 sec
+[Thu Jan 21 04:09:52.223 2016] [16704] shutdown complete
+[Thu Jan 21 04:10:05.545 2016] [16512] listening on all interfaces, port=9312
+[Thu Jan 21 04:10:05.546 2016] [16512] listening on all interfaces, port=9306
+[Thu Jan 21 04:10:05.548 2016] [16512] WARNING: index 'test1': preload: failed to open c:/xampp/htdocs/sphinx2/data/test1.sps: Bad file descriptor; NOT SERVING
+[Thu Jan 21 04:10:05.550 2016] [16512] WARNING: index 'test1stemmed': preload: failed to open c:/xampp/htdocs/sphinx2/data/test1stemmed.sps: Bad file descriptor; NOT SERVING
+[Thu Jan 21 04:10:05.562 2016] [16512] accepting connections
+[Thu Jan 21 04:11:14.209 2016] [16512] caught SIGTERM, shutting down
+[Thu Jan 21 04:11:14.259 2016] [16512] rt: index rt: ramchunk saved in 0.008 sec
+[Thu Jan 21 04:11:14.266 2016] [16512] shutdown complete
+[Thu Jan 21 04:11:29.942 2016] [14816] listening on all interfaces, port=9312
+[Thu Jan 21 04:11:29.943 2016] [14816] listening on all interfaces, port=9306
+[Thu Jan 21 04:11:29.962 2016] [14816] accepting connections
+[Thu Jan 21 05:39:48.274 2016] [14816] caught SIGTERM, shutting down
+[Thu Jan 21 05:39:48.308 2016] [14816] rt: index rt: ramchunk saved in 0.004 sec
+[Thu Jan 21 05:39:48.360 2016] [14816] shutdown complete
+[Thu Jan 21 05:40:00.234 2016] [16528] listening on all interfaces, port=9312
+[Thu Jan 21 05:40:00.235 2016] [16528] listening on all interfaces, port=9306
+[Thu Jan 21 05:40:00.256 2016] [16528] accepting connections
+[Thu Jan 21 05:58:56.759 2016] [16528] caught SIGTERM, shutting down
+[Thu Jan 21 05:58:56.807 2016] [16528] rt: index rt: ramchunk saved in 0.008 sec
+[Thu Jan 21 05:58:56.822 2016] [16528] shutdown complete
+[Thu Jan 21 06:02:53.268 2016] [15940] listening on all interfaces, port=9312
+[Thu Jan 21 06:02:53.269 2016] [15940] listening on all interfaces, port=9306
+[Thu Jan 21 06:02:53.294 2016] [15940] accepting connections
+[Thu Jan 21 06:45:10.226 2016] [15940] caught SIGTERM, shutting down
+[Thu Jan 21 06:45:10.249 2016] [15940] rt: index rt: ramchunk saved in 0.007 sec
+[Thu Jan 21 06:45:10.258 2016] [15940] shutdown complete
+[Thu Jan 21 06:45:19.842 2016] [16184] listening on all interfaces, port=9312
+[Thu Jan 21 06:45:19.844 2016] [16184] listening on all interfaces, port=9306
+[Thu Jan 21 06:45:19.872 2016] [16184] accepting connections
+[Thu Jan 21 06:50:52.815 2016] [16184] caught SIGTERM, shutting down
+[Thu Jan 21 06:50:52.847 2016] [16184] rt: index rt: ramchunk saved in 0.004 sec
+[Thu Jan 21 06:50:52.940 2016] [16184] shutdown complete
+[Thu Jan 21 06:51:08.800 2016] [11292] listening on all interfaces, port=9312
+[Thu Jan 21 06:51:08.801 2016] [11292] listening on all interfaces, port=9306
+[Thu Jan 21 06:51:08.828 2016] [11292] accepting connections
+[Thu Jan 21 06:55:41.556 2016] [11292] caught SIGTERM, shutting down
+[Thu Jan 21 06:55:41.604 2016] [11292] rt: index rt: ramchunk saved in 0.008 sec
+[Thu Jan 21 06:55:41.677 2016] [11292] shutdown complete
+[Thu Jan 21 06:55:51.633 2016] [14784] listening on all interfaces, port=9312
+[Thu Jan 21 06:55:51.634 2016] [14784] listening on all interfaces, port=9306
+[Thu Jan 21 06:55:51.662 2016] [14784] accepting connections
+[Thu Jan 21 07:43:34.072 2016] [14784] caught SIGTERM, shutting down
+[Thu Jan 21 07:43:34.101 2016] [14784] rt: index rt: ramchunk saved in 0.007 sec
+[Thu Jan 21 07:43:34.194 2016] [14784] shutdown complete
+[Thu Jan 21 14:47:11.225 2016] [ 6276] listening on all interfaces, port=9312
+[Thu Jan 21 14:47:11.228 2016] [ 6276] listening on all interfaces, port=9306
+[Thu Jan 21 14:47:11.294 2016] [ 6276] accepting connections
+[Thu Jan 21 15:31:32.527 2016] [ 6276] caught SIGTERM, shutting down
+[Thu Jan 21 15:31:32.623 2016] [ 6276] rt: index rt: ramchunk saved in 0.008 sec
+[Thu Jan 21 15:31:32.646 2016] [ 6276] shutdown complete
+[Thu Jan 21 15:31:53.219 2016] [ 7508] listening on all interfaces, port=9312
+[Thu Jan 21 15:31:53.221 2016] [ 7508] listening on all interfaces, port=9306
+[Thu Jan 21 15:31:53.244 2016] [ 7508] accepting connections
