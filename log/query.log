@@ -116,3 +116,6 @@
 [Fri Jan 22 19:46:40.694 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] document
 [Fri Jan 22 19:46:40.696 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
 [Fri Jan 22 19:46:40.699 2016] 0.001 sec 0.001 sec [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 19:51:23.367 2016] 0.001 sec 0.001 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 19:51:23.371 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 19:51:23.371 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)

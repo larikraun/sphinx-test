@@ -14,12 +14,11 @@ $q = $_GET["q"];
 $s->setFilter("tag_attr", array(7), false);
 $s->setGroupBy("tag_attr", SPH_GROUPBY_ATTR);
 
-$result = $s->Query($q, "test1");
 
 $facetf = new FSphinx\Facet("tag");
 $s->attachFacet($facetf);
 $s->attachQueryParser(new FSphinx\MultiFieldQuery());
-//$s->attachFacet(new FSphinx\Facet(("year")));
+$s->attachFacet(new FSphinx\Facet(("year")));
 $result = $s->Query($q, "test1");
 
 echo $facetf;
