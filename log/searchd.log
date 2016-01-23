@@ -209,3 +209,9 @@
 [Sat Jan 23 15:24:40.373 2016] [ 7992] rotating index 'test1': success
 [Sat Jan 23 15:24:40.395 2016] [ 7992] rotating index 'test1stemmed': success
 [Sat Jan 23 15:24:40.407 2016] [ 7992] accepting connections
+[Sat Jan 23 18:27:21.620 2016] [ 7992] caught SIGTERM, shutting down
+[Sat Jan 23 18:27:21.780 2016] [ 7992] rt: index rt: ramchunk saved in 0.037 sec
+[Sat Jan 23 18:27:21.800 2016] [ 7992] shutdown complete
+[Sat Jan 23 18:27:30.384 2016] [ 8968] listening on all interfaces, port=9312
+[Sat Jan 23 18:27:30.386 2016] [ 8968] listening on all interfaces, port=9306
+[Sat Jan 23 18:27:30.412 2016] [ 8968] accepting connections

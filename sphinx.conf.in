@@ -56,8 +56,8 @@ source src1
     sql_attr_timestamp	= date_added
     sql_attr_uint		= group_id
 	sql_attr_string = tag_terms_attr
-	sql_attr_string = title
-	sql_attr_string = content
+	sql_field_string = title
+	sql_field_string = content
 
     #facets declaration
     sql_attr_multi = uint tag_attr from query;\

@@ -45,18 +45,20 @@
       <file leaf-file-name="sphinxapi.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/sphinxapi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9615384">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
+            <state vertical-scroll-proportion="-4.576923">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="e#6#25#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sphinx.conf.in" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sphinx.conf.in" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sphinx.conf.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5480944">
-              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+            <state vertical-scroll-proportion="-4.482143">
+              <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -65,37 +67,45 @@
       <file leaf-file-name="sphinxtest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/sphinxtest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.192307">
-              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            <state vertical-scroll-proportion="-13.846154">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding>
-                <marker date="1453510659146" expanded="true" signature="1232:1267" placeholder="select * fro..documents..." />
+                <marker date="1453559683084" expanded="true" signature="1232:1267" placeholder="select * fro..documents..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newfacetfile.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="newfacetfile.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/newfacetfile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.40963855">
+              <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
               <folding>
-                <marker date="1453558937002" expanded="true" signature="312:327" placeholder="SELECT * FRO..." />
-                <marker date="1453558937002" expanded="true" signature="312:374" placeholder="SELECT * FRO..." />
-                <marker date="1453558937002" expanded="true" signature="312:377" placeholder="SELECT * FRO..." />
-                <marker date="1453558937002" expanded="true" signature="312:379" placeholder="SELECT * FRO..." />
-                <marker date="1453558937002" expanded="true" signature="521:673" placeholder="..." />
-                <marker date="1453558937002" expanded="true" signature="528:673" placeholder="..." />
+                <element signature="e#20#112#0#PHP" expanded="true" />
+                <marker date="1453574314194" expanded="true" signature="453:468" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="453:476" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="453:481" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="453:494" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="453:691" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="521:535" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="521:543" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="521:563" placeholder="SELECT * FRO..." />
+                <marker date="1453574314194" expanded="true" signature="698:1203" placeholder="..." />
+                <marker date="1453574314194" expanded="true" signature="705:1203" placeholder="..." />
+                <marker date="1453574314194" expanded="true" signature="1256:1330" placeholder="SELECT *,GRO..." />
+                <marker date="1453574314194" expanded="true" signature="1256:1394" placeholder="SELECT *,GRO..." />
+                <marker date="1453574314194" expanded="true" signature="1879:1986" placeholder="SELECT *,COU..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysqli.php" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <file leaf-file-name="PDO.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3454545">
-              <caret line="135" column="144" selection-start-line="135" selection-start-column="139" selection-end-line="135" selection-end-column="144" />
+            <state vertical-scroll-proportion="-19.192308">
+              <caret line="1166" column="20" selection-start-line="1166" selection-start-column="20" selection-end-line="1166" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -136,8 +146,8 @@
         <option value="$PROJECT_DIR$/api/FSphinx/MultiFieldQuery.php" />
         <option value="$PROJECT_DIR$/api/FSphinx/FSphinxClient.php" />
         <option value="$PROJECT_DIR$/api/sphinxtest.php" />
-        <option value="$PROJECT_DIR$/api/newfacetfile.php" />
         <option value="$PROJECT_DIR$/sphinx.conf.in" />
+        <option value="$PROJECT_DIR$/api/newfacetfile.php" />
       </list>
     </option>
   </component>
@@ -341,7 +351,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1175" column="13" selection-start-line="1175" selection-start-column="13" selection-end-line="1175" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#6#25#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -358,7 +370,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
-            <marker date="1453510659146" expanded="true" signature="1232:1267" placeholder="select * fro..documents..." />
+            <marker date="1453559683084" expanded="true" signature="1232:1267" placeholder="select * fro..documents..." />
           </folding>
         </state>
       </provider>
@@ -382,14 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29259896">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/sphinxapi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -420,14 +424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/FSphinx/FacetGroup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.5">
-          <caret line="175" column="31" selection-start-line="175" selection-start-column="31" selection-end-line="175" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/sphinxapi.py">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -447,36 +443,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/sphinxtest.php">
+    <entry file="file://$PROJECT_DIR$/api/FSphinx/FacetGroup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.192307">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state vertical-scroll-proportion="-10.5">
+          <caret line="175" column="31" selection-start-line="175" selection-start-column="31" selection-end-line="175" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/sphinxapi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
           <folding>
-            <marker date="1453510659146" expanded="true" signature="1232:1267" placeholder="select * fro..documents..." />
+            <element signature="e#6#25#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/newfacetfile.php">
+    <entry file="file://$PROJECT_DIR$/api/sphinxtest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state vertical-scroll-proportion="-13.846154">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding>
-            <marker date="1453558937002" expanded="true" signature="312:327" placeholder="SELECT * FRO..." />
-            <marker date="1453558937002" expanded="true" signature="312:374" placeholder="SELECT * FRO..." />
-            <marker date="1453558937002" expanded="true" signature="312:377" placeholder="SELECT * FRO..." />
-            <marker date="1453558937002" expanded="true" signature="312:379" placeholder="SELECT * FRO..." />
-            <marker date="1453558937002" expanded="true" signature="521:673" placeholder="..." />
-            <marker date="1453558937002" expanded="true" signature="528:673" placeholder="..." />
+            <marker date="1453559683084" expanded="true" signature="1232:1267" placeholder="select * fro..documents..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sphinx.conf.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5480944">
-          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        <state vertical-scroll-proportion="-4.482143">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.192308">
+          <caret line="1166" column="20" selection-start-line="1166" selection-start-column="20" selection-end-line="1166" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/newfacetfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40963855">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <element signature="e#20#112#0#PHP" expanded="true" />
+            <marker date="1453574314194" expanded="true" signature="453:468" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="453:476" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="453:481" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="453:494" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="453:691" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="521:535" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="521:543" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="521:563" placeholder="SELECT * FRO..." />
+            <marker date="1453574314194" expanded="true" signature="698:1203" placeholder="..." />
+            <marker date="1453574314194" expanded="true" signature="705:1203" placeholder="..." />
+            <marker date="1453574314194" expanded="true" signature="1256:1330" placeholder="SELECT *,GRO..." />
+            <marker date="1453574314194" expanded="true" signature="1256:1394" placeholder="SELECT *,GRO..." />
+            <marker date="1453574314194" expanded="true" signature="1879:1986" placeholder="SELECT *,COU..." />
+          </folding>
         </state>
       </provider>
     </entry>
