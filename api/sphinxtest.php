@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 mysql_connect("localhost", "root", "yinka92");
 mysql_select_db("test");
@@ -5,23 +7,30 @@ require("sphinxapi.php");
 require_once('FSphinx/FSphinxClient.php');
 require_once('FSphinx/Facet.php');
 require_once('FSphinx/MultiFieldQuery.php');
+$q = $_GET["q"];
+
 $s = new  FSphinx\FSphinxClient();
+
 $s->setServer("127.0.0.1", 9312); // NOT "localhost" under Windows 7!
 $s->setMatchMode(SPH_MATCH_EXTENDED);
 $s->SetLimits(0, 25);
-
-$q = $_GET["q"];
 $s->setFilter("tag_attr", array(7), false);
 $s->setGroupBy("tag_attr", SPH_GROUPBY_ATTR);
-
-
-$facetf = new FSphinx\Facet("tag");
-$s->attachFacet($facetf);
 $s->attachQueryParser(new FSphinx\MultiFieldQuery());
-$s->attachFacet(new FSphinx\Facet(("year")));
-$result = $s->Query($q, "test1");
 
-echo $facetf;
+$tagFacet = new FSphinx\Facet("tag");
+$s->attachFacet($tagFacet);
+
+$yearFacet = new FSphinx\Facet(("year"));
+$s->attachFacet($yearFacet);
+$result = $s->Query($q, "test1"); ?>
+<pre>
+<code>
+    <?php echo $tagFacet; ?>
+    <?php echo $yearFacet; ?>
+</code>
+</pre>
+<?php
 
 if ($result['total'] > 0) {
     echo 'Total: ' . $result['total'] . "<br>\n";
@@ -41,4 +50,13 @@ if ($result['total'] > 0) {
     echo ' No results found';
 }
 
-echo json_encode($result);
+
+?>
+<pre>
+<code>
+    <?php echo json_encode($result, JSON_PRETTY_PRINT); ?>
+
+</code>
+</pre>
+</body>
+</html>

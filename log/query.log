@@ -119,3 +119,62 @@
 [Fri Jan 22 19:51:23.367 2016] 0.001 sec 0.001 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
 [Fri Jan 22 19:51:23.371 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
 [Fri Jan 22 19:51:23.371 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 22:54:52.046 2016] 0.716 sec 0.716 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 22:54:52.126 2016] 0.012 sec 0.012 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 22:54:52.126 2016] 0.012 sec 0.012 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:00:36.457 2016] 0.008 sec 0.008 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:00:36.467 2016] 0.004 sec 0.004 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:00:36.467 2016] 0.004 sec 0.004 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:01:46.023 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:01:46.031 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:01:46.031 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:02:17.395 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:02:17.398 2016] 0.000 sec 0.000 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:02:17.398 2016] 0.000 sec 0.000 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:02:29.993 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:02:29.997 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:02:29.997 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:02:47.077 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:02:47.080 2016] 0.000 sec 0.000 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:02:47.080 2016] 0.000 sec 0.000 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:04:26.846 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:04:26.850 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:04:26.850 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:31:44.522 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:31:44.525 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:31:44.525 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:49:17.167 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:49:17.172 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:49:17.172 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Fri Jan 22 23:49:21.165 2016] 0.002 sec 0.002 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Fri Jan 22 23:49:21.171 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Fri Jan 22 23:49:21.171 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Sat Jan 23 00:14:06.035 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Sat Jan 23 00:14:06.039 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Sat Jan 23 00:14:06.040 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Sat Jan 23 00:16:54.619 2016] 0.000 sec 0.000 sec [ext/1/rel 0 (0,25) @tag_attr] [test1] (@* document)
+[Sat Jan 23 00:27:47.270 2016] 0.000 sec 0.000 sec [ext/1/rel 0 (0,25) @tag_attr] [test1] (@* document)
+[Sat Jan 23 00:27:51.791 2016] 0.000 sec 0.000 sec [ext/1/rel 0 (0,25) @tag_attr] [test1] (@* document)
+[Sat Jan 23 00:28:09.304 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Sat Jan 23 00:28:09.308 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Sat Jan 23 00:28:09.308 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Sat Jan 23 01:51:41.486 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Sat Jan 23 01:51:41.490 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Sat Jan 23 01:51:41.490 2016] 0.001 sec 0.001 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Sat Jan 23 01:57:40.307 2016] 0.000 sec 0.000 sec [ext/1/rel 4 (0,25) @tag_attr] [test1] (@* document)
+[Sat Jan 23 01:57:40.314 2016] 0.002 sec 0.002 sec x2 [ext/1/rel 4 (0,15) @tag_attr] [*] (@* document)
+[Sat Jan 23 01:57:40.314 2016] 0.002 sec 0.002 sec x2 [ext/1/rel 1 (0,15) @year_attr] [*] (@* document)
+[Sat Jan 23 12:39:02.142 2016] 0.055 sec 0.055 sec [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 13:10:50.694 2016] 0.000 sec 0.000 sec [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 13:11:54.641 2016] 0.000 sec 0.000 sec [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 13:26:25.361 2016] 0.000 sec 0.000 sec [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 13:50:05.422 2016] 0.059 sec 0.059 sec [ext2/0/ext 1 (0,20)] [test1]
+[Sat Jan 23 13:50:33.470 2016] 0.000 sec 0.000 sec [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 14:37:25.632 2016] 0.000 sec 0.000 sec [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 14:38:39.157 2016] 0.000 sec 0.000 sec x2 [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 14:38:39.157 2016] 0.000 sec 0.000 sec x2 [ext2/0/ext 2 (0,20) @group_id] [test1]
+[Sat Jan 23 14:38:50.850 2016] 0.000 sec 0.000 sec x2 [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 14:38:50.850 2016] 0.000 sec 0.000 sec x2 [ext2/0/ext 2 (0,20) @group_id] [test1]
+[Sat Jan 23 14:59:12.887 2016] 0.080 sec 0.080 sec [ext2/1/ext 2 (0,20)] [test1] document
+[Sat Jan 23 15:22:22.727 2016] 0.000 sec 0.000 sec [ext2/0/ext 4 (0,20)] [test1]
+[Sat Jan 23 15:24:46.309 2016] 0.000 sec 0.000 sec [ext2/0/ext 4 (0,20)] [test1]
